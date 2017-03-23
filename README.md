@@ -161,5 +161,26 @@ In dieser Stunde hat Ben angefangen Die Binärcodes für die Mikrocontroller zu 
 <a href="#Inh"> [zurück zum Inhaltsverzeichnis] </a>
 </p>
 
-
+<table>
+<thead>
+<tr>
+<th>
+<h2>
+<a id="Quellen"> Quellen:</a>
+</h2>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://www.mymakerstuff.de">Internet-Tutorial</a></td>
+</tr>
+<tr>
+<td><a href="https://studio.code.org">Bilder sind Screenshots von der Code.org Oberfläche</a></td>
+</tr>
+<tr>
+<td><a href="http://www.staggeringbeauty.com/">Inspiration</a></td>
+</tr>
+</tbody>
+</table>
 
