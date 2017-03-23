@@ -94,23 +94,35 @@ Nachdem wir eine einfache LED zum Blinken gebracht hatten, haben wir eine Ampels
 Hierzu haben wir eine rote, gelbe und grüne LED so programmiert, dass sie wie eine Ampelschaltung im realen Leben funktionieren.
 </p>
 Hier Video und Code:
-
+<h3>
 9.3.2017
+</h3>
+<p>
 An diesem Tag haben wir angefangen einen Taster mit in die Schaltung einzubauen. Auch hierzu haben wir das Tutorial von mymakerstuff.de benutzt.
 Je nachdem ob der Taster gedrückt oder nicht gedrückt ist, ist die LED an oder aus. 
-
+</p>
 Hier Video und Code:
 
+<p>
 Als nächstes haben wir vier LED's angeschlossen und diese so programmiert, dass man mit dem Taster die LED's durchschalten kann. 
 Hier ist uns aufgefallen, dass ein Taster prellen kann, das bedeutet dass innerhalb des Tasters durch Wackelkontakte missverständliche Signale an den Arduino geschickt werden.
 Dies konnte durch Pausen zwischen der Bedienung des Tasters kontrolliert werden. 
-
+</p>
 Hier Video: 
 
+<h3>
 15.3.2017
+</h3>
+<p>
 Hier hat Ben angefangen seine Nixie Tube Uhr zu Programmieren. In dieser Stunde hat er sich einen Überblick verschafft was dazu nötig ist.
-
-16.3.2017 
+</p>
+<h3>
+16.3.2017
+</h3>
+<p>
 In dieser Stunde hat Ben angefangen Die Binärcodes für die Mikrocontroller zu programmieren. 
+</p>
+
+
 
 
