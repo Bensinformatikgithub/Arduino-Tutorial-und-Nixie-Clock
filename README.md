@@ -184,7 +184,7 @@ In dieser Stunde hat Ben angefangen Die Binärcodes für die Mikrocontroller zu 
 <td><a href="https://www.arduino.cc">Arduino Webseite</a></td>
 </tr>
 <tr>
-<td><a href="http://www.staggeringbeauty.com/">Inspiration</a></td>
+<td><a href="http://willthefuturebeaweso.me">Inspiration</a></td>
 </tr>
 </tbody>
 </table>
