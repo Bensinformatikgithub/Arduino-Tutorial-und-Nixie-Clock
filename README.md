@@ -11,16 +11,16 @@ Dies ist eine Github Dokumentation von unserem Fortschritt in der Arduino Progra
 </h2>
 
 <ul>
-<li><a href="#lvl1"> Wie funktioniert ein Arduino?</a></li>
-<li><a href="#lvl2"> Nixie-Tube Uhr</a></li>
-<li><a href="#lvl3"> Bens Nixie Tube Uhr</a></li>
-<li><a href="#lvl4"> Dokumentation </a></li>
-<li><a href="#Quell"> Quellen</a></li>
+<li><a href="#1."> Wie funktioniert ein Arduino?</a></li>
+<li><a href="#2."> Nixie-Tube Uhr</a></li>
+<li><a href="#3."> Bens Nixie Tube Uhr</a></li>
+<li><a href="#4".> Dokumentation </a></li>
+<li><a href="#Quellen"> Quellen</a></li>
 </ul>
 
 
 <h2>
-Wie funktioniert ein Arduino?
+<a id="1.">Wie funktioniert ein Arduino? </a>
 </h2>
 
 <p>
@@ -38,7 +38,7 @@ Den erwähnten Code kann man in der Entwicklungsumgebung, die man über die Webs
 </p>
 
 <h2>
-Nixie-Tube Uhr:
+<a id="2."> Nixie-Tube Uhr:</a>
 </h2>
 <p>
 Nixie Tubes sind Röhren die bis in die Siebziger benutzt wurden um Informationen anzuzeigen. Sie wurden später durch die Displays abgelöst.
@@ -51,7 +51,7 @@ Es gibt Röhren die alle mögliche Ziffern anzeigen können also kann man Nixie 
 </p>
 
 <h2>
-Bens Nixie Tube Uhr:
+<a id="3.">Bens Nixie Tube Uhr:</a>
 </h2>
 <p>
 Ich habe vor einiger Zeit eine solche Uhr gesehen und fand sie vom Aussehen sehr ansprechend.
@@ -77,7 +77,7 @@ Wegen Zeitmangel und Lieferengpässen wird dieser Teil nur theoretisch
 
 
 <h2>
-Dokumentation:
+<a id="4.">Dokumentation:</a>
 </h2>
 <p>
 Nachdem wir uns für die Arduiono Programmierung entschieden haben, haben wir ein Tutorial für die Basics der Arduino Programmierung bearbeitet, da wir bisher keine Vorkenntnisse hatten.
