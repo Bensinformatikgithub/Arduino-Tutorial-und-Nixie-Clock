@@ -10,7 +10,22 @@ Diese Kenntnisse können glücklicherweise durch die extrem große Community des
 Den erwähnten Code kann man in der Entwicklungsumgebung, die man über die Webseite von Arduino kostenlos herunterladen kann, geschrieben werden.
 
 
-Nixie Clock Uhr
+Nixie tube Uhr:
+
+Nixie Tubes sind Röhren dir bis zu den Siebziegern benutzt wurden um Informationen anzuzeigen. Sie wurden später durch die Displays abgelöst.
+Nixie Tubes sind mit einem Edelgas gefüllt und enthalten leitende Ziffern, die die Anode darstellen. Als Kathode wird ein Gitter vor oder hinter den Ziffern benutzt.
+Setzt man nun eine Spannung an eine Ziffer und die Kathode. Fängt die Ziffer an zu glühen und leuchtet so auf. Die angelegte Spannung muss dafür zwischen 150 und 190V sein.
+Es gibt Röhren die alle mögliche Ziffern anzeigen können also kann man Nixie Tubes für alle mögliche Displays benutzen. 
+
+
+Bens Nixie Tube Uhr:
+
+Ich habe vor einiger Zeit eine solche Uhr gesehen und fand sie vom Aussehen sehr ansprechend.
+Da eine fertige Uhr locker 500€ kostet war das Besitzen einer solchen Uhr bislang Utopisch.
+Allerdings habe ich bei der Suche nach einem neuen Informatik Projekt diese Uhr wieder gesehen und dachte das man diese bestimmt auch durch einen Arduino Steuern kann.
+Hier ergaben sich mir allerdings mehrere Probleme:
+1. Die Röhren brauchen zum Leuchten eine Spannung von mindestend 150V. Allerdings kann der Arduino nur höchstens 5V ausgeben.
+Dieses Problem wird gelöst, in dem man einen Mikrocontroller zwischen den Arduino und die Röhren schaltet. Der wirkt ein Transistor nur mit mehreren Ausgängen. Um dem Mikrocontroller anzusteuern muss man einen 4 Stelligen Binärcode benutzen. Dieser kommt durch entweder eine 1 (in diesem Fall wird 5V an das Kabel angelegt) oder eine Null (0V) zustande die durch vier verschiedene Kabel gesendet werden. Je Nachdem wo die 5V angelegt werden schaltet also der Mikrocontroller die verschiedenen Ziffern.
 
 
 
