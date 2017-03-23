@@ -72,8 +72,7 @@ Dies bedeutet, dass man nicht direkt die Steckdosenspannung benutzen kann.
 Dies wird durch einen Voltwandler gelöst. Er liefert die richtige Spannung für die Röhren. Man kann sogar alle Röhren an eine Spannung anlegen.
 </li>
 <li>
-Die 
-Wegen Zeitmangel und Lieferengpässen wird dieser Teil nur theoretisch
+Aufgrund von Lieferschwierigkeiten und Zeitmangel bleibt die Ausarbeitung dieses Projektes leider theoretisch.
 </li>
 </ul>
 <p>
