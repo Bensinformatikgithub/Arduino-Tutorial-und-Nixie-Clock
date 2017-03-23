@@ -176,7 +176,13 @@ In dieser Stunde hat Ben angefangen Die Binärcodes für die Mikrocontroller zu 
 <td><a href="https://www.mymakerstuff.de">Internet-Tutorial</a></td>
 </tr>
 <tr>
-<td><a href="https://studio.code.org">Bilder sind Screenshots von der Code.org Oberfläche</a></td>
+<td><a href="https://stludio.code.org">Videos</a></td>
+</tr>
+<tr>
+<td><a href="http://www.tube-tester.com/sites/nixie/nixie-tubes.htm">Nixie-Tubes</a></td>
+</tr>
+<tr>
+<td><a href="https://www.arduino.cc">Arduino Webseite</a></td>
 </tr>
 <tr>
 <td><a href="http://www.staggeringbeauty.com/">Inspiration</a></td>
