@@ -14,7 +14,7 @@ Dies ist eine Github Dokumentation von unserem Fortschritt in der Arduino Progra
 <li><a href="#1."> Wie funktioniert ein Arduino?</a></li>
 <li><a href="#2."> Nixie-Tube Uhr</a></li>
 <li><a href="#3."> Bens Nixie Tube Uhr</a></li>
-<li><a href="#4.".> Dokumentation </a></li>
+<li><a href="#4."> Dokumentation </a></li>
 <li><a href="#Quellen"> Quellen</a></li>
 </ul>
 
@@ -62,14 +62,15 @@ Allerdings habe ich bei der Suche nach einem neuen Informatik Projekt diese Uhr 
 Hier ergaben sich mir allerdings mehrere Probleme:
 </p>
 <ul>
-<li><a> 1. Die Röhren brauchen zum Leuchten eine Spannung von mindestend 150V. Allerdings kann der Arduino nur höchstens 5V ausgeben.
-Dieses Problem wird gelöst, in dem man einen Mikrocontroller zwischen den Arduino und die Röhren schaltet. Er wirkt als ein Transistor nur mit mehreren Ausgängen. Um dem Mikrocontroller anzusteuern muss man einen 4-stelligen Binärcode benutzen. Dieser kommt durch entweder eine Eins (in diesem Fall wird 5V an das Kabel angelegt) oder eine Null (0V) zustande die durch vier verschiedene Kabel gesendet werden. Je nachdem wo die 5V angelegt werden, schaltet also der Mikrocontroller die verschiedenen Ziffern. </a></li>
-<li><a> 2. Man darf höchstens 190V anlegen, ansonsten brennen die Röhren durch.
+<li> 1. Die Röhren brauchen zum Leuchten eine Spannung von mindestend 150V. Allerdings kann der Arduino nur höchstens 5V ausgeben.
+Dieses Problem wird gelöst, in dem man einen Mikrocontroller zwischen den Arduino und die Röhren schaltet. Er wirkt als ein Transistor nur mit mehreren Ausgängen. Um dem Mikrocontroller anzusteuern muss man einen 4-stelligen Binärcode benutzen. Dieser kommt durch entweder eine Eins (in diesem Fall wird 5V an das Kabel angelegt) oder eine Null (0V) zustande die durch vier verschiedene Kabel gesendet werden. Je nachdem wo die 5V angelegt werden, schaltet also der Mikrocontroller die verschiedenen Ziffern. </li>
+<li> 2. Man darf höchstens 190V anlegen, ansonsten brennen die Röhren durch.
 Dies bedeutet, dass man nicht direkt die Steckdosenspannung benutzen kann.
-Dies wird durch einen Voltwandler gelöst. Er liefert die richtige Spannung für die Röhren. Man kann sogar alle Röhren an eine Spannung anlegen.</a></li>
-<li><a> 3. Die 
+Dies wird durch einen Voltwandler gelöst. Er liefert die richtige Spannung für die Röhren. Man kann sogar alle Röhren an eine Spannung anlegen.</li>
+<li>
+3. Die 
 Wegen Zeitmangel und Lieferengpässen wird dieser Teil nur theoretisch
-</a></li>
+</li>
 </ul>
 <p>
 <a href="#Inh"> [zurück zum Inhaltsverzeichnis] </a>
