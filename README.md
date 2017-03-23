@@ -25,7 +25,12 @@ Da eine fertige Uhr locker 500€ kostet war das Besitzen einer solchen Uhr bisl
 Allerdings habe ich bei der Suche nach einem neuen Informatik Projekt diese Uhr wieder gesehen und dachte das man diese bestimmt auch durch einen Arduino Steuern kann.
 Hier ergaben sich mir allerdings mehrere Probleme:
 1. Die Röhren brauchen zum Leuchten eine Spannung von mindestend 150V. Allerdings kann der Arduino nur höchstens 5V ausgeben.
-Dieses Problem wird gelöst, in dem man einen Mikrocontroller zwischen den Arduino und die Röhren schaltet. Der wirkt ein Transistor nur mit mehreren Ausgängen. Um dem Mikrocontroller anzusteuern muss man einen 4 Stelligen Binärcode benutzen. Dieser kommt durch entweder eine 1 (in diesem Fall wird 5V an das Kabel angelegt) oder eine Null (0V) zustande die durch vier verschiedene Kabel gesendet werden. Je Nachdem wo die 5V angelegt werden schaltet also der Mikrocontroller die verschiedenen Ziffern.
+Dieses Problem wird gelöst, in dem man einen Mikrocontroller zwischen den Arduino und die Röhren schaltet. Der wirkt ein Transistor nur mit mehreren Ausgängen. Um dem Mikrocontroller anzusteuern muss man einen 4 Stelligen Binärcode benutzen. Dieser kommt durch entweder eine 1 (in diesem Fall wird 5V an das Kabel angelegt) oder eine Null (0V) zustande die durch vier verschiedene Kabel gesendet werden. Je Nachdem wo die 5V angelegt werden schaltet also der Mikrocontroller die verschiedenen Ziffern. 
+2. Man darf Höchstens 190V anlegen oder die Röhren brennen durch
+Dies Bedeutet, dass man nicht direkt die Steckdosenspannung benutzen kann.
+Dies wird durch einen Voltwandler gelöst. Er liefert die richtige Spannung für die Röhren. Man kann sogar alle Röhren an eine Spannung anlegen.
+3. Die 
+Wegen Zeitmangel und Lieferengpässen wird dieser Teil nur Theoretisch
 
 
 
