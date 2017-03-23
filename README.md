@@ -175,7 +175,7 @@ In dieser Stunde hat Ben angefangen Die Binärcodes für die Mikrocontroller zu 
 <td><a href="https://www.mymakerstuff.de">Internet-Tutorial</a></td>
 </tr>
 <tr>
-<td><a href="https://stludio.code.org">Videos</a></td>
+<td><a href="https://stludio.code.org">Videos und Codes von den github-Plattform</a></td>
 </tr>
 <tr>
 <td><a href="http://www.tube-tester.com/sites/nixie/nixie-tubes.htm">Nixie-Tubes</a></td>
