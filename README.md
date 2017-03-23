@@ -7,7 +7,7 @@ Dies ist eine Github Dokumentation von unserem Fortschritt in der Arduino Progra
 </p>
 
 <h2>
-<a id="Inh"> Inhalt </a>
+<a id="Inh"> Inhaltsverzeichnis </a>
 </h2>
 
 <ul>
