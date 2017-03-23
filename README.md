@@ -125,6 +125,7 @@ Hier Video und Code:
 <p>
 An diesem Tag haben wir angefangen einen Taster mit in die Schaltung einzubauen. Auch hierzu haben wir das Tutorial von mymakerstuff.de benutzt.
 Je nachdem ob der Taster gedrückt oder nicht gedrückt ist, ist die LED an oder aus. 
+![]https://media.giphy.com/media/k02HRVcVpdDMY/giphy.gif
 </p>
 Hier Video und Code:
 
