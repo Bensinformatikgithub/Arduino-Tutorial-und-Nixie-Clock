@@ -94,7 +94,9 @@ Hier Video einfügen:
 Nachdem wir eine einfache LED zum Blinken gebracht hatten, haben wir eine Ampelschaltung programmiert. 
 Hierzu haben wir eine rote, gelbe und grüne LED so programmiert, dass sie wie eine Ampelschaltung im realen Leben funktionieren.
 </p>
+<p>
 Hier Video und Code:
+</p>
 
 <p>
 <a href="#Inh"> [zurück zum Inhaltsverzeichnis] </a>
@@ -114,7 +116,9 @@ Als nächstes haben wir vier LED's angeschlossen und diese so programmiert, dass
 Hier ist uns aufgefallen, dass ein Taster prellen kann, das bedeutet dass innerhalb des Tasters durch Wackelkontakte missverständliche Signale an den Arduino geschickt werden.
 Dies konnte durch Pausen zwischen der Bedienung des Tasters kontrolliert werden. 
 </p>
+<p>
 Hier Video: 
+</p>
 <p>
 <a href="#Inh"> [zurück zum Inhaltsverzeichnis] </a>
 </p>
