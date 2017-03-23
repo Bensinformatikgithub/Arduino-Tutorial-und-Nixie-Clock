@@ -14,7 +14,7 @@ Dies ist eine Github Dokumentation von unserem Fortschritt in der Arduino Progra
 <li><a href="#1."> Wie funktioniert ein Arduino?</a></li>
 <li><a href="#2."> Nixie-Tube Uhr</a></li>
 <li><a href="#3."> Bens Nixie Tube Uhr</a></li>
-<li><a href="#4".> Dokumentation </a></li>
+<li><a href="#4.".> Dokumentation </a></li>
 <li><a href="#Quellen"> Quellen</a></li>
 </ul>
 
