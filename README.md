@@ -2,6 +2,10 @@
 Arduino-Tutorial und Nixie-Clock
 </h1>
 
+<p>
+Dies ist eine Github Dokumentation von unserem Fortschritt in der Arduino Programmierung.
+</p>
+
 <h2>
 <a id="Inh"> Inhalt </a>
 </h2>
@@ -14,12 +18,10 @@ Arduino-Tutorial und Nixie-Clock
 <li><a href="#Quell"> Quellen</a></li>
 </ul>
 
-<p>
-Dies ist eine Github Dokumentation von unserem Fortschritt in der Arduino Programmierung.
-</p>
 
 <h2>
-Wie funktioniert ein Arduino?Dokumentation</h2>
+Wie funktioniert ein Arduino?
+</h2>
 
 <p>
 Ein Arduino ist ein Mikrocontroller von der gleichnahmigen Firma, die 2005 gegründet wurde.
@@ -31,6 +33,9 @@ Diese Kenntnisse können glücklicherweise durch die extrem große Community des
 <p>
 Den erwähnten Code kann man in der Entwicklungsumgebung, die man über die Webseite von Arduino kostenlos herunterladen kann, geschrieben werden.
 </p>
+<p>
+<a href="#Inh"> [zurück zum Inhaltsverzeichnis] </a>
+</p>
 
 <h2>
 Nixie-Tube Uhr:
@@ -41,6 +46,10 @@ Nixie Tubes sind mit einem Edelgas gefüllt und enthalten leitende Ziffern, die 
 Setzt man nun eine Spannung an eine Ziffer und die Kathode. Fängt die Ziffer an zu glühen und leuchtet so auf. Die angelegte Spannung muss dafür zwischen 150 und 190V liegen.
 Es gibt Röhren die alle mögliche Ziffern anzeigen können also kann man Nixie Tubes für alle mögliche Displays benutzen. 
 </p>
+<p>
+<a href="#Inh"> [zurück zum Inhaltsverzeichnis] </a>
+</p>
+
 <h2>
 Bens Nixie Tube Uhr:
 </h2>
@@ -58,25 +67,32 @@ Dies wird durch einen Voltwandler gelöst. Er liefert die richtige Spannung für
 3. Die 
 Wegen Zeitmangel und Lieferengpässen wird dieser Teil nur theoretisch
 
+<p>
+<a href="#Inh"> [zurück zum Inhaltsverzeichnis] </a>
+</p>
 
 
-
-
+<h2>
 Dokumentation:
+</h2>
+<p>
 Nachdem wir uns für die Arduiono Programmierung entschieden haben, haben wir ein Tutorial für die Basics der Arduino Programmierung bearbeitet, da wir bisher keine Vorkenntnisse hatten.
 Dieses Tutorial ist auf mymakerstuff.de zu finden. 
-
+</p>
+<h3>
 2.3.2017 
+</h3>
+<p>
 Hier haben wir angefangen die Arduiono Programmiersprache zu lernen, indem wir eine LED zum leuchten gebracht haben.
 Hierzu haben wir den wir den Beispielcode von mymakerstuff.de verwendet und unseren Ansprüchen nach verändert. 
 Im Tutorial haben wir eine LED zum Blinken gebracht, indem wir den Beispielsketch Blink aus dem Arduino Programm benutzt haben.
 Um die Funktionsweise besser zu verstehen, haben wir ein SOS-Signal programmiert. 
-
+</p>
 Hier Video einfügen:
-
+<p>
 Nachdem wir eine einfache LED zum Blinken gebracht hatten, haben wir eine Ampelschaltung programmiert. 
 Hierzu haben wir eine rote, gelbe und grüne LED so programmiert, dass sie wie eine Ampelschaltung im realen Leben funktionieren.
-
+</p>
 Hier Video und Code:
 
 9.3.2017
